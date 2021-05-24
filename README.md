@@ -34,3 +34,7 @@ THIS IS ONLY FOR EDUCATIONAL PURPOSES
 DON'T USE FOR MINING OR ILLEGAL USE
 
 DON'T RECODE THIS SC!
+```
+---
+
+#### Main Repository : https://github.com/avipatilpro/AdityaRDP
