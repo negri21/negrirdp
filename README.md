@@ -1,8 +1,8 @@
-# Free RDP 6 HOURS
+# RDP_X 🍃
 
 it's all free, don't be stingy ⭐️ yes: D
 
-### HOW TO CREATE AdityaRDP
+### HOW TO CREATE RDP_X
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
