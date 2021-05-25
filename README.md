@@ -2,6 +2,12 @@
 
 it's all free, don't be stingy ⭐️ yes: D
 
+<br>
+
+#### ⚠ Don't Edit AnyThing to keep Running Without any Error (+_+)
+
+<br>
+
 ### HOW TO CREATE RDP_X
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
