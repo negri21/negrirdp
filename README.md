@@ -1,14 +1,15 @@
-# RDP_X 🍃
+# Avi_RDP 🍃
 
 it's all free, don't be stingy ⭐️ yes: D
 
-<br>
+#### ^_^ Works For 6 hrs
+
 
 #### ⚠ Don't Edit AnyThing to keep Running Without any Error (+_+)
 
 <br>
 
-### HOW TO CREATE RDP_X
+### HOW TO CREATE Avi_RDP
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
@@ -44,4 +45,4 @@ DON'T RECODE THIS SC!
 ```
 ---
 
-#### Main Repository : https://github.com/avipatilpro/AdityaRDP
+#### Main Repository : https://github.com/avipatilpro/AviRDP
