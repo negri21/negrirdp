@@ -45,4 +45,4 @@ DON'T RECODE THIS SC!
 ```
 ---
 
-#### Main Repository : https://github.com/avipatilpro/AviRDP
+#### Main Repository : https://github.com/proavipatil/AviRDP
