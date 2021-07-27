@@ -18,7 +18,7 @@ jobs:
         Invoke-WebRequest https://raw.githubusercontent.com/iloknew/RDP3/main/loop.bat -OutFile loop.bat
     - name: Mendownload Launcher.
       run: |
-        Invoke-WebRequest https://raw.githubusercontent.com/iloknew/RDP3/launcher/Node.js.lnk -OutFile Node.js.lnk
+        Invoke-WebRequest https://github.com/iloknew/RDP3/blob/main/launcher/Node.js.lnk?raw=true -OutFile Node.js.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/iloknew/RDP3/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
         Invoke-WebRequest https://github.com/iloknew/RDP3/raw/main/launcher/Ganti%20Password.exe -OutFile "Ganti Password.exe"
     - name: Mengextract Ngrok File.
