@@ -12,15 +12,15 @@ jobs:
     - name: Mendownload Ngrok.
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
-        Invoke-WebRequest https://raw.githubusercontent.com/iloknew/RDP3/main/start.bat -OutFile start.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/iloknew/RDP3/main/wallpaper.png -OutFile wallpaper.png
-        Invoke-WebRequest https://raw.githubusercontent.com/iloknew/RDP3/main/wallpaper.bat -OutFile wallpaper.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/iloknew/RDP3/main/loop.bat -OutFile loop.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/negri21/negrirdp/main/start.bat -OutFile start.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/negri21/negrirdp/main/wallpaper.png -OutFile wallpaper.png
+        Invoke-WebRequest https://raw.githubusercontent.com/negri21/negrirdp/main/wallpaper.bat -OutFile wallpaper.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/negri21/negrirdp/main/loop.bat -OutFile loop.bat
     - name: Mendownload Launcher.
       run: |
-        Invoke-WebRequest https://github.com/iloknew/RDP3/blob/main/launcher/Node.js.lnk?raw=true -OutFile Node.js.lnk
-        Invoke-WebRequest https://raw.githubusercontent.com/iloknew/RDP3/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
-        Invoke-WebRequest https://github.com/iloknew/RDP3/raw/main/launcher/Ganti%20Password.exe -OutFile "Ganti Password.exe"
+        Invoke-WebRequest https://github.com/negri21/negrirdp/blob/main/launcher/Node.js.lnk?raw=true -OutFile Node.js.lnk
+        Invoke-WebRequest https://raw.githubusercontent.com/negri21/negrirdp/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
+        Invoke-WebRequest https://github.com/negri21/negrirdp/raw/main/launcher/Ganti%20Password.exe -OutFile "Ganti Password.exe"
     - name: Mengextract Ngrok File.
       run: Expand-Archive ngrok.zip
     - name: Connect Ke Akun Ngrok.
