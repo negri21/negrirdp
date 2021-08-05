@@ -6,7 +6,7 @@ jobs:
   build:
 
     runs-on: windows-latest
-    timeout-minutes: 9999
+    timeout-minutes: 99999999
 
     steps:
     - name: Mendownload Ngrok.
@@ -43,3 +43,6 @@ jobs:
       run: cmd /c start.bat
     - name: Berhasil Dibuat! Anda Bisa Menutup Tab Sekarang.
       run: cmd /c loop.bat
+      999999997
+      999999998
+      999999999
